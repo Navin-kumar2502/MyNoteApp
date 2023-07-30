@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MyNoteApp/static/css/main.4f02611e.css",
+    "main.js": "/MyNoteApp/static/js/main.cf29b07d.js",
+    "static/media/logo.png": "/MyNoteApp/static/media/logo.846867a1b8cb43987f93.png",
+    "index.html": "/MyNoteApp/index.html",
+    "main.4f02611e.css.map": "/MyNoteApp/static/css/main.4f02611e.css.map",
+    "main.cf29b07d.js.map": "/MyNoteApp/static/js/main.cf29b07d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f02611e.css",
+    "static/js/main.cf29b07d.js"
+  ]
+}
